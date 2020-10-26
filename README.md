@@ -4,10 +4,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; figuring out some technologies.
+- 🤔 &nbsp; Self learner and a huge fan of technologies.
 - 🎓 &nbsp; Studying Computer Science and Web Development.
-- 🌱 &nbsp; Learning more about Backend , Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🌱 &nbsp; Learning more about Flutter and JavaScript.
+- ✍️ &nbsp; Caring of typing a clean and reusable code.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -35,4 +35,4 @@
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mena-aziz-588136161/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/menaaziz27) [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/mena_aziz99) [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook](https://www.facebook.com/3azooz.ellazooz)
 <!--
-⭐️ From [AVS1508](https://github.com/AVS1508)
+⭐️ From [AVS1508](https://github.com/lipis/flag-icon-css/blob/master/flags/4x3/eg.svg)
