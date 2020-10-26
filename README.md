@@ -6,7 +6,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Self learner and a huge fan of technologies.
-- 🎓 &nbsp; Studying Computer Science.
+- 🎓 &nbsp; Studying Computer Science and Web Development.
 - 🌱 &nbsp; Learning more about Web Development, Flutter and JavaScript.
 - ✍️ &nbsp; Eager to type a clean and reusable code.
 
