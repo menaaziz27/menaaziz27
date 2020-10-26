@@ -1,6 +1,7 @@
 <!--<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png"> -->
 
 <h2> Hey there! I'm Mina.</h2>
+### <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px"> Hey there! I'm Mina.&nbsp;
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
