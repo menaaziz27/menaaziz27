@@ -47,6 +47,9 @@
    <a href="https://www.instagram.com/mina.aziz99/" target="_blank" >
     <img align="left" alt="Jugal Bhatt | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a>
+  <a href="https://www.facebook.com/3azooz.ellazooz" target="_blank" >
+    <img align="left" alt="Jugal Bhatt | Gmail" width="26px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F1826%2FPNG%2F512%2F4202110facebooklogosocialsocialmedia-115707_115594.png&imgrefurl=https%3A%2F%2Ficon-icons.com%2Ficon%2Ffacebook-logo-social-media%2F115594&tbnid=IvhUL5YLaHOJrM&vet=12ahUKEwjWgYnwqdTsAhWNwoUKHUbXDvMQMygIegUIARDfAQ..i&docid=Ewi-KZNBuoaF5M&w=512&h=512&q=facebook%20icon&safe=active&ved=2ahUKEwjWgYnwqdTsAhWNwoUKHUbXDvMQMygIegUIARDfAQ" />
+  </a>
 
 <!--[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mena-aziz-588136161/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/menaaziz27) [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/mena_aziz99) [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook](https://www.facebook.com/3azooz.ellazooz) -->
 <!--[![instagram](https://img.icons8.com/cute-clipart/2x/instagram-new.png) instagram](https://www.instagram.com/mina.aziz99/) -->
