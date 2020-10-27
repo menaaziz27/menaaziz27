@@ -35,16 +35,16 @@
 ## 📫 How to reach me: 
 <!--[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/mena-aziz-588136161/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/mena_aziz99) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/menaaziz27) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/3azooz.ellazooz) -->
 
-<a href="https://www.linkedin.com/in/mena-aziz-588136161/">
+<a href="https://www.linkedin.com/in/mena-aziz-588136161/" target="_blank">
     <img align="left" alt="Jugal Bhatt | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
-  <a href="mailto:menaaziz27@gmail.com">
+  <a href="mailto:menaaziz27@gmail.com" target="_blank">
     <img align="left" alt="Jugal Bhatt | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
-   <a href="https://twitter.com/mena_aziz99">
+   <a href="https://twitter.com/mena_aziz99" target="_blank">
     <img align="left" alt="Jugal Bhatt | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
   </a>
-   <a href="https://www.instagram.com/mina.aziz99/">
+   <a href="https://www.instagram.com/mina.aziz99/" target="_blank" >
     <img align="left" alt="Jugal Bhatt | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a>
 
