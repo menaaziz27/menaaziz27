@@ -7,7 +7,7 @@
 
 - 🤔 &nbsp; Self learner and a huge fan of technologies.
 - 🎓 &nbsp; Studying Computer Science and Web Development.
-- 🌱 &nbsp; Learning more about Web Development, Flutter and JavaScript.
+- 🌱 &nbsp; Learning more about Backend Web Development, Flutter and JavaScript.
 - ✍️ &nbsp; Eager to type a clean and reusable code.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
