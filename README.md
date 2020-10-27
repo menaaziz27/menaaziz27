@@ -3,9 +3,9 @@
 <!-- <h2> Hey there! I'm Mina.</h2> -->
 ### <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px"> Hey there! I'm Mena.&nbsp;
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 😎 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Self learner and a huge fan of technologies.
+- 🧑 &nbsp; Self learner and a huge fan of technologies.
 - 🎓 &nbsp; Studying Computer Science and Web Development.
 - 💻 &nbsp; Learning more about Backend Web Development, Flutter and JavaScript.
 - ❤️ &nbsp; Love typing a clean and reusable code
