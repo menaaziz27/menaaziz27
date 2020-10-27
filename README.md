@@ -8,7 +8,7 @@
 - 🧑 &nbsp; Self learner and a passionate about exploring new technologies.
 - 🎓 &nbsp; Studying Computer Science and Web Development.
 - 💻 &nbsp; Learning more about Backend Web Development, Flutter and JavaScript.
-- ❤️ &nbsp; Love typing a clean and reusable code
+- ❤️ &nbsp; Love typing a clean and reusable code.
 - 🤓 &nbsp; If I'm not coding now, so I'm exploring a new technology.
 
 <!-- - ✍️ &nbsp; Eager to type a clean and reusable code. -->
