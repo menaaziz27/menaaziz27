@@ -35,9 +35,20 @@
 ## 📫 How to reach me: 
 <!--[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/mena-aziz-588136161/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/mena_aziz99) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/menaaziz27) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/3azooz.ellazooz) -->
 
+<a href="https://www.linkedin.com/in/mena-aziz-588136161/">
+    <img align="left" alt="Jugal Bhatt | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  </a>
+  <a href="mailto:menaaziz27@gmail.com">
+    <img align="left" alt="Jugal Bhatt | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  </a>
+   <a href="https://twitter.com/mena_aziz99">
+    <img align="left" alt="Jugal Bhatt | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+  </a>
+   <a href="https://www.instagram.com/mina.aziz99/">
+    <img align="left" alt="Jugal Bhatt | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+  </a>
 
-
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mena-aziz-588136161/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/menaaziz27) [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/mena_aziz99) [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook](https://www.facebook.com/3azooz.ellazooz)
+<!--[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mena-aziz-588136161/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/menaaziz27) [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/mena_aziz99) [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook](https://www.facebook.com/3azooz.ellazooz) -->
 <!--[![instagram](https://img.icons8.com/cute-clipart/2x/instagram-new.png) instagram](https://www.instagram.com/mina.aziz99/) -->
 <!--
 ⭐️ From [Mina](https://github.com/menaaziz27)
