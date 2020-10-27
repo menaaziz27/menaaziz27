@@ -48,7 +48,7 @@
     <img align="left" alt="Jugal Bhatt | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a>
   <a href="https://www.facebook.com/3azooz.ellazooz" target="_blank" >
-    <img align="left" alt="Jugal Bhatt | Gmail" width="26px" src="<img src="https://img.icons8.com/color/48/000000/facebook-new.png"/>" />
+    <img align="left"  width="26px" src="https://img.icons8.com/color/48/000000/facebook-new.png"/>
   </a>
 
 <!--[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mena-aziz-588136161/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/menaaziz27) [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/mena_aziz99) [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook](https://www.facebook.com/3azooz.ellazooz) -->
