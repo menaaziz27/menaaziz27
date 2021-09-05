@@ -17,7 +17,6 @@
 <!-- blog start -->
 * [hoisting in javascript](https://dev.to/menaaziz27/hoisting-in-javascript-variables-5f4m) - Dec 21, 2020 
 * [what the heck is optional chaining in javascript](https://dev.to/menaaziz27/what-the-heck-is-optional-chaining-in-javascript-3210) - Apr 2, 2021
-* [MahoMangaDownloaderVer11.9更新](http://blog.zmcx16.moe/2020/08/mahomangadownloaderver119.html) - 2020-08-23
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
