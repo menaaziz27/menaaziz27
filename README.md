@@ -7,7 +7,7 @@
 
 - 🧑 &nbsp; Self learner and a passionate about exploring new technologies.
 - 🎓 &nbsp; Studying Computer Science and interested in Web Development.
-- 💻 &nbsp; Currently learning more about Express.js, JavaScript and React.
+- 💻 &nbsp; Currently learning more about Express.js, microservices and React.
 - ❤️ &nbsp; Love typing a clean and reusable code.
 <!-- - 🤓 &nbsp; If I'm not coding now, so I'm asleep or maybe exploring a new technology. -->
 
