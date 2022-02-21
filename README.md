@@ -17,6 +17,7 @@
 * [what the heck is optional chaining in javascript](https://dev.to/menaaziz27/what-the-heck-is-optional-chaining-in-javascript-3210) - Apr 2, 2021
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
+  <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" style="display:inline-block" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" style="display:inline-block" />
   
@@ -30,6 +31,7 @@
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
   <img src="	https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  </p>
 <br/>
 
 <!-- <h4 align="center">Visitor's count :eyes:</h4>
