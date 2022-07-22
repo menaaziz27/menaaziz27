@@ -3,7 +3,7 @@
 <!-- <h2> Hey there! I'm Mina.</h2> -->
 ### Hey there! I'm Mena.&nbsp;
 
-<a href="https://app.daily.dev/menaaziz27"><img src="https://api.daily.dev/devcards/ba3e75103a5044c387497d3e1841c116.png?r=8fa" width="400" alt="Azzouz's Dev Card"/></a>
+<a style="position: absolute; right: 10px;" href="https://app.daily.dev/menaaziz27"><img src="https://api.daily.dev/devcards/ba3e75103a5044c387497d3e1841c116.png?r=8fa" width="400" alt="Azzouz's Dev Card"/></a>
 
 <h3> 😎 &nbsp;About Me </h3>
 
