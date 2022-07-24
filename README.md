@@ -16,7 +16,9 @@
 * [hoisting in javascript](https://dev.to/menaaziz27/hoisting-in-javascript-variables-5f4m) - Dec 21, 2020 
 * [what the heck is optional chaining in javascript](https://dev.to/menaaziz27/what-the-heck-is-optional-chaining-in-javascript-3210) - Apr 2, 2021
 
-![Mena Aziz's DevCard](./devcard.svg)
+<!-- ![Mena Aziz's DevCard](./devcard.svg) -->
+
+<img src="./devcard.svg" width="400" />
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
   <p>
